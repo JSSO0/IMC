@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5/7ZxaGsgzWY4MNSP/dd/8yhruJ060ltt4+zLcHqgZyeL8m38kFjXAAkx3WKth7Y8rYze5Z6/CFPF2foiCeHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joely\\Desktop\\CURSOS\\C# BÁSICO\\PROJETOS\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joely\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Joely\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Joely\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Joely\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
